@@ -1,0 +1,788 @@
+[
+    {
+        "type": "START",
+        "id": "4DUZ1D",
+        "timestamp": 1681311936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "N3VUO6",
+        "timestamp": 1680429936,
+        "comments": ""
+    },
+    {
+        "type": "END",
+        "id": "N3VUO6",
+        "timestamp": 1680483936,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "L6T6LD",
+        "timestamp": 1682168736,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "MHS7JS",
+        "timestamp": 1679605536,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "9LQ9AC",
+        "timestamp": 1681826736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "3TRP6P",
+        "timestamp": 1680494736,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "PKUX5B",
+        "timestamp": 1680923136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "25EAAF",
+        "timestamp": 1682453136,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "WWKAV4",
+        "timestamp": 1682381136,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "WWKAV4",
+        "timestamp": 1682417136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "ALNCLO",
+        "timestamp": 1682222736,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "NSYMZ9",
+        "timestamp": 1680440736,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "ANUTFD",
+        "timestamp": 1679659536,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "66U1SX",
+        "timestamp": 1681974336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "AQC5SC",
+        "timestamp": 1681545936,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "U4YU3W",
+        "timestamp": 1682791536,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "O9IW9V",
+        "timestamp": 1681729536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "O9IW9V",
+        "timestamp": 1681751136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "B93OKK",
+        "timestamp": 1680152736,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "0PAQ7X",
+        "timestamp": 1681117536,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "N322NY",
+        "timestamp": 1679861136,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "9X0W4R",
+        "timestamp": 1681185936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "9X0W4R",
+        "timestamp": 1681268736,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "KUR6KA",
+        "timestamp": 1682312736,
+        "comments": ""
+    },
+    {
+        "type": "END",
+        "id": "KUR6KA",
+        "timestamp": 1682348736,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "O7BICG",
+        "timestamp": 1679299536,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "8XEQ22",
+        "timestamp": 1681056336,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "8XEQ22",
+        "timestamp": 1681128336,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "NBDYLZ",
+        "timestamp": 1682766336,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "NBDYLZ",
+        "timestamp": 1682777136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "KFQDRH",
+        "timestamp": 1679994336,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "KFQDRH",
+        "timestamp": 1679997936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "8YBAP9",
+        "timestamp": 1679749536,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "GWV1JJ",
+        "timestamp": 1680293136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "8TWHQP",
+        "timestamp": 1681743936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "8TWHQP",
+        "timestamp": 1681783536,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "0OYMU8",
+        "timestamp": 1680782736,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "0MAFL7",
+        "timestamp": 1681974336,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "0MAFL7",
+        "timestamp": 1681999536,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "2JQL9G",
+        "timestamp": 1679411136,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "2JQL9G",
+        "timestamp": 1679414736,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "UN7LT0",
+        "timestamp": 1679587536,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "LFGI8S",
+        "timestamp": 1680293136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "K8RKSH",
+        "timestamp": 1679648736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "M1VADR",
+        "timestamp": 1679432736,
+        "comments": ""
+    },
+    {
+        "type": "END",
+        "id": "M1VADR",
+        "timestamp": 1679519136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "GR2ION",
+        "timestamp": 1680948336,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "BB0TKJ",
+        "timestamp": 1682053536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "0KJUDN",
+        "timestamp": 1681977936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "0KJUDN",
+        "timestamp": 1682028336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "BPI0YB",
+        "timestamp": 1681869936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "PUNHJS",
+        "timestamp": 1682546736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "YH27DJ",
+        "timestamp": 1680710736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "YH27DJ",
+        "timestamp": 1680786336,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "VH3KOP",
+        "timestamp": 1679965536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "VH3KOP",
+        "timestamp": 1680015936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "D973RQ",
+        "timestamp": 1682057136,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "NTNI70",
+        "timestamp": 1679465136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "65IM0T",
+        "timestamp": 1682575536,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "65IM0T",
+        "timestamp": 1682593536,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "OWU8MU",
+        "timestamp": 1680156336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "YUYJ2J",
+        "timestamp": 1680113136,
+        "comments": ""
+    },
+    {
+        "type": "END",
+        "id": "YUYJ2J",
+        "timestamp": 1680134736,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "4XOOYO",
+        "timestamp": 1680235536,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "IJH4XV",
+        "timestamp": 1682579136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "FW1W4O",
+        "timestamp": 1680617136,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "25M5NE",
+        "timestamp": 1682204736,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "25M5NE",
+        "timestamp": 1682287536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "I5S3JT",
+        "timestamp": 1680483936,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "OYIC7T",
+        "timestamp": 1679310336,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "64PA9I",
+        "timestamp": 1679727936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "64PA9I",
+        "timestamp": 1679731536,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "K6HZRY",
+        "timestamp": 1681437936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "K6HZRY",
+        "timestamp": 1681484736,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "36MVLA",
+        "timestamp": 1682093136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "36MVLA",
+        "timestamp": 1682175936,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "type": "START",
+        "id": "HKSVYD",
+        "timestamp": 1681524336,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "HKSVYD",
+        "timestamp": 1681585536,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "6IJASZ",
+        "timestamp": 1681005936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "HXPPHF",
+        "timestamp": 1681430736,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "YP8PGF",
+        "timestamp": 1681491936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "D0S3ZN",
+        "timestamp": 1679681136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "X8EAB6",
+        "timestamp": 1682093136,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "4WDDHL",
+        "timestamp": 1680653136,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "4WDDHL",
+        "timestamp": 1680739536,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "PUR3F6",
+        "timestamp": 1679601936,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "NZ7BQL",
+        "timestamp": 1679785536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "3P6GXG",
+        "timestamp": 1680980736,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "4LHKUW",
+        "timestamp": 1682669136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "4LHKUW",
+        "timestamp": 1682701536,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "type": "START",
+        "id": "E7UYHF",
+        "timestamp": 1680073536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "24BI3V",
+        "timestamp": 1680282336,
+        "comments": ""
+    },
+    {
+        "type": "END",
+        "id": "24BI3V",
+        "timestamp": 1680329136,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "type": "START",
+        "id": "40V3YF",
+        "timestamp": 1680415536,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "HFKJ4V",
+        "timestamp": 1680930336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "6G9J9Q",
+        "timestamp": 1682125536,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "RC6AIL",
+        "timestamp": 1680591936,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "UVK8MN",
+        "timestamp": 1682543136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "S8YQDW",
+        "timestamp": 1679522736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "SBG6N3",
+        "timestamp": 1681391136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "S9KJ74",
+        "timestamp": 1680948336,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "UW5FGT",
+        "timestamp": 1680865536,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "QCSU0Y",
+        "timestamp": 1679349936,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "QCSU0Y",
+        "timestamp": 1679429136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "NSP7GY",
+        "timestamp": 1682190336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "KDDYIK",
+        "timestamp": 1681725936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "FW0IJO",
+        "timestamp": 1679310336,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "FW0IJO",
+        "timestamp": 1679385936,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "type": "START",
+        "id": "CX90MG",
+        "timestamp": 1682424336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "U924Z9",
+        "timestamp": 1681070736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "BUVNDG",
+        "timestamp": 1681653936,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "L78F9K",
+        "timestamp": 1680498336,
+        "comments": ""
+    },
+    {
+        "type": "END",
+        "id": "L78F9K",
+        "timestamp": 1680527136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "6IGS4B",
+        "timestamp": 1680192336,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "XME71E",
+        "timestamp": 1680257136,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "END",
+        "id": "XME71E",
+        "timestamp": 1680314736,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "CHDJO6",
+        "timestamp": 1681229136,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "PX19DI",
+        "timestamp": 1680764736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "S5426C",
+        "timestamp": 1682363136,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "N0N3NF",
+        "timestamp": 1682237136,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "B49XDW",
+        "timestamp": 1682042736,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "0GZ0G1",
+        "timestamp": 1681866336,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "YAXC8T",
+        "timestamp": 1679526336,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "7BJ4JD",
+        "timestamp": 1682262336,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "START",
+        "id": "2B6SJ2",
+        "timestamp": 1682067936,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "START",
+        "id": "25ZX46",
+        "timestamp": 1680285936,
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "E436IR",
+        "timestamp": 1680926736,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "type": "START",
+        "id": "RCJDF1",
+        "timestamp": 1680512736,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "RCJDF1",
+        "timestamp": 1680541536,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "END",
+        "id": "1682834736",
+        "timestamp": 123499,
+        "comments": ""
+    }
+]

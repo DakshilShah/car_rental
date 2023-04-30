@@ -1,0 +1,911 @@
+[
+    {
+        "id": "4DUZ1D",
+        "start_time": "04/12/23 11:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "N3VUO6",
+        "start_time": "04/02/23 06:05:36 AM",
+        "end_time": "04/02/23 09:05:36 PM",
+        "duration": "15:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "L6T6LD",
+        "start_time": "04/22/23 09:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "MHS7JS",
+        "start_time": "03/23/23 05:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "9LQ9AC",
+        "start_time": "04/18/23 10:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "3TRP6P",
+        "start_time": "04/03/23 12:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "PKUX5B",
+        "start_time": "04/07/23 11:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "25EAAF",
+        "start_time": "04/25/23 04:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "WWKAV4",
+        "start_time": "04/24/23 08:05:36 PM",
+        "end_time": "04/25/23 06:05:36 AM",
+        "duration": "10:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "ALNCLO",
+        "start_time": "04/23/23 12:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "NSYMZ9",
+        "start_time": "04/02/23 09:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "ANUTFD",
+        "start_time": "03/24/23 08:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "66U1SX",
+        "start_time": "04/20/23 03:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "AQC5SC",
+        "start_time": "04/15/23 04:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "U4YU3W",
+        "start_time": "04/29/23 02:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "O9IW9V",
+        "start_time": "04/17/23 07:05:36 AM",
+        "end_time": "04/17/23 01:05:36 PM",
+        "duration": "6:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "B93OKK",
+        "start_time": "03/30/23 01:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "0PAQ7X",
+        "start_time": "04/10/23 05:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "N322NY",
+        "start_time": "03/26/23 04:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "9X0W4R",
+        "start_time": "04/11/23 12:05:36 AM",
+        "end_time": "04/11/23 11:05:36 PM",
+        "duration": "23:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "KUR6KA",
+        "start_time": "04/24/23 01:05:36 AM",
+        "end_time": "04/24/23 11:05:36 AM",
+        "duration": "10:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "O7BICG",
+        "start_time": "03/20/23 04:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "8XEQ22",
+        "start_time": "04/09/23 12:05:36 PM",
+        "end_time": "04/10/23 08:05:36 AM",
+        "duration": "20:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "NBDYLZ",
+        "start_time": "04/29/23 07:05:36 AM",
+        "end_time": "04/29/23 10:05:36 AM",
+        "duration": "3:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "KFQDRH",
+        "start_time": "03/28/23 05:05:36 AM",
+        "end_time": "03/28/23 06:05:36 AM",
+        "duration": "1:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "8YBAP9",
+        "start_time": "03/25/23 09:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "GWV1JJ",
+        "start_time": "03/31/23 04:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "8TWHQP",
+        "start_time": "04/17/23 11:05:36 AM",
+        "end_time": "04/17/23 10:05:36 PM",
+        "duration": "11:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "0OYMU8",
+        "start_time": "04/06/23 08:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "0MAFL7",
+        "start_time": "04/20/23 03:05:36 AM",
+        "end_time": "04/20/23 10:05:36 AM",
+        "duration": "7:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "2JQL9G",
+        "start_time": "03/21/23 11:05:36 AM",
+        "end_time": "03/21/23 12:05:36 PM",
+        "duration": "1:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "UN7LT0",
+        "start_time": "03/23/23 12:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "LFGI8S",
+        "start_time": "03/31/23 04:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "K8RKSH",
+        "start_time": "03/24/23 05:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "M1VADR",
+        "start_time": "03/21/23 05:05:36 PM",
+        "end_time": "03/22/23 05:05:36 PM",
+        "duration": "1 day, 0:00:00",
+        "late_return": true,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "GR2ION",
+        "start_time": "04/08/23 06:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "BB0TKJ",
+        "start_time": "04/21/23 01:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "0KJUDN",
+        "start_time": "04/20/23 04:05:36 AM",
+        "end_time": "04/20/23 06:05:36 PM",
+        "duration": "14:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "BPI0YB",
+        "start_time": "04/18/23 10:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "PUNHJS",
+        "start_time": "04/26/23 06:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "YH27DJ",
+        "start_time": "04/05/23 12:05:36 PM",
+        "end_time": "04/06/23 09:05:36 AM",
+        "duration": "21:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "VH3KOP",
+        "start_time": "03/27/23 09:05:36 PM",
+        "end_time": "03/28/23 11:05:36 AM",
+        "duration": "14:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "D973RQ",
+        "start_time": "04/21/23 02:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "NTNI70",
+        "start_time": "03/22/23 02:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "65IM0T",
+        "start_time": "04/27/23 02:05:36 AM",
+        "end_time": "04/27/23 07:05:36 AM",
+        "duration": "5:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "OWU8MU",
+        "start_time": "03/30/23 02:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "YUYJ2J",
+        "start_time": "03/29/23 02:05:36 PM",
+        "end_time": "03/29/23 08:05:36 PM",
+        "duration": "6:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "4XOOYO",
+        "start_time": "03/31/23 12:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "IJH4XV",
+        "start_time": "04/27/23 03:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "FW1W4O",
+        "start_time": "04/04/23 10:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "25M5NE",
+        "start_time": "04/22/23 07:05:36 PM",
+        "end_time": "04/23/23 06:05:36 PM",
+        "duration": "23:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "I5S3JT",
+        "start_time": "04/02/23 09:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "OYIC7T",
+        "start_time": "03/20/23 07:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "64PA9I",
+        "start_time": "03/25/23 03:05:36 AM",
+        "end_time": "03/25/23 04:05:36 AM",
+        "duration": "1:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "K6HZRY",
+        "start_time": "04/13/23 10:05:36 PM",
+        "end_time": "04/14/23 11:05:36 AM",
+        "duration": "13:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "36MVLA",
+        "start_time": "04/21/23 12:05:36 PM",
+        "end_time": "04/22/23 11:05:36 AM",
+        "duration": "23:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "id": "HKSVYD",
+        "start_time": "04/14/23 10:05:36 PM",
+        "end_time": "04/15/23 03:05:36 PM",
+        "duration": "17:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "6IJASZ",
+        "start_time": "04/08/23 10:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "HXPPHF",
+        "start_time": "04/13/23 08:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "YP8PGF",
+        "start_time": "04/14/23 01:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "D0S3ZN",
+        "start_time": "03/24/23 02:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "X8EAB6",
+        "start_time": "04/21/23 12:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "4WDDHL",
+        "start_time": "04/04/23 08:05:36 PM",
+        "end_time": "04/05/23 08:05:36 PM",
+        "duration": "1 day, 0:00:00",
+        "late_return": true,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "PUR3F6",
+        "start_time": "03/23/23 04:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "NZ7BQL",
+        "start_time": "03/25/23 07:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "3P6GXG",
+        "start_time": "04/08/23 03:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "4LHKUW",
+        "start_time": "04/28/23 04:05:36 AM",
+        "end_time": "04/28/23 01:05:36 PM",
+        "duration": "9:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "id": "E7UYHF",
+        "start_time": "03/29/23 03:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "24BI3V",
+        "start_time": "03/31/23 01:05:36 PM",
+        "end_time": "04/01/23 02:05:36 AM",
+        "duration": "13:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "id": "40V3YF",
+        "start_time": "04/02/23 02:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "HFKJ4V",
+        "start_time": "04/08/23 01:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "6G9J9Q",
+        "start_time": "04/21/23 09:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "RC6AIL",
+        "start_time": "04/04/23 03:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "UVK8MN",
+        "start_time": "04/26/23 05:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "S8YQDW",
+        "start_time": "03/22/23 06:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "SBG6N3",
+        "start_time": "04/13/23 09:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "S9KJ74",
+        "start_time": "04/08/23 06:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "UW5FGT",
+        "start_time": "04/07/23 07:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "QCSU0Y",
+        "start_time": "03/20/23 06:05:36 PM",
+        "end_time": "03/21/23 04:05:36 PM",
+        "duration": "22:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "NSP7GY",
+        "start_time": "04/22/23 03:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "KDDYIK",
+        "start_time": "04/17/23 06:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "FW0IJO",
+        "start_time": "03/20/23 07:05:36 AM",
+        "end_time": "03/21/23 04:05:36 AM",
+        "duration": "21:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Crack found in front passenger window"
+    },
+    {
+        "id": "CX90MG",
+        "start_time": "04/25/23 08:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "U924Z9",
+        "start_time": "04/09/23 04:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "BUVNDG",
+        "start_time": "04/16/23 10:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "L78F9K",
+        "start_time": "04/03/23 01:05:36 AM",
+        "end_time": "04/03/23 09:05:36 AM",
+        "duration": "8:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "6IGS4B",
+        "start_time": "03/30/23 12:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "XME71E",
+        "start_time": "03/31/23 06:05:36 AM",
+        "end_time": "03/31/23 10:05:36 PM",
+        "duration": "16:00:00",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "CHDJO6",
+        "start_time": "04/11/23 12:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "PX19DI",
+        "start_time": "04/06/23 03:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "S5426C",
+        "start_time": "04/24/23 03:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "N0N3NF",
+        "start_time": "04/23/23 04:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "B49XDW",
+        "start_time": "04/20/23 10:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "0GZ0G1",
+        "start_time": "04/18/23 09:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "YAXC8T",
+        "start_time": "03/22/23 07:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "7BJ4JD",
+        "start_time": "04/23/23 11:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "id": "2B6SJ2",
+        "start_time": "04/21/23 05:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "id": "25ZX46",
+        "start_time": "03/31/23 02:05:36 PM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    },
+    {
+        "id": "E436IR",
+        "start_time": "04/08/23 12:05:36 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": "Scratch on driver's door"
+    },
+    {
+        "id": "RCJDF1",
+        "start_time": "04/03/23 05:05:36 AM",
+        "end_time": "04/03/23 01:05:36 PM",
+        "duration": "8:00:00",
+        "late_return": false,
+        "damage": true,
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "id": "1682834736",
+        "start_time": "01/02/70 05:18:19 AM",
+        "end_time": "",
+        "duration": "",
+        "late_return": false,
+        "damage": false,
+        "comments": ""
+    }
+]
